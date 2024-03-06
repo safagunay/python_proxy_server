@@ -11,7 +11,7 @@ eth-keys==0.2.2
 eth-rlp==0.1.2
 eth-typing==2.1.0
 eth-utils==1.6.0
-Flask==1.0.3
+Flask==2.2.5
 hexbytes==0.1.0
 idna==2.8
 itsdangerous==1.1.0
